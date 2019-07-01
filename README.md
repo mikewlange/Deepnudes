@@ -18,3 +18,6 @@ All that you've ever wished for and more
  <img src='https://github.com/mechanicalAI/pytorch-CycleGAN-and-pix2pix/raw/master/imgs/horse2zebra.gif' align="left" width=384>
 </pre>
 
+### Learn about GAN's. Or online "wardrobe malfunctions"
+
+[GANLAB](https://mechanicalai.github.io/ganlab/)
