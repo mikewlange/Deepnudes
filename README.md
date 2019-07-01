@@ -21,3 +21,7 @@ All that you've ever wished for and more
 ### Learn about GAN's. Or online "wardrobe malfunctions"
 
 [GANLAB](https://mechanicalai.github.io/ganlab/)
+
+<pre>
+ <img src='https://mikewlange.github.io/Deepnudes/gan.gif' align="center">
+</pre>
